@@ -1,0 +1,13 @@
+C:\Users\Sam\source\repos\HashMap\HashMap\obj\Debug\netcoreapp3.1\HashMap.csproj.AssemblyReference.cache
+C:\Users\Sam\source\repos\HashMap\HashMap\obj\Debug\netcoreapp3.1\HashMap.AssemblyInfoInputs.cache
+C:\Users\Sam\source\repos\HashMap\HashMap\obj\Debug\netcoreapp3.1\HashMap.AssemblyInfo.cs
+C:\Users\Sam\source\repos\HashMap\HashMap\obj\Debug\netcoreapp3.1\HashMap.csproj.CoreCompileInputs.cache
+C:\Users\Sam\source\repos\HashMap\HashMap\bin\Debug\netcoreapp3.1\HashMap.exe
+C:\Users\Sam\source\repos\HashMap\HashMap\bin\Debug\netcoreapp3.1\HashMap.deps.json
+C:\Users\Sam\source\repos\HashMap\HashMap\bin\Debug\netcoreapp3.1\HashMap.runtimeconfig.json
+C:\Users\Sam\source\repos\HashMap\HashMap\bin\Debug\netcoreapp3.1\HashMap.runtimeconfig.dev.json
+C:\Users\Sam\source\repos\HashMap\HashMap\bin\Debug\netcoreapp3.1\HashMap.dll
+C:\Users\Sam\source\repos\HashMap\HashMap\bin\Debug\netcoreapp3.1\HashMap.pdb
+C:\Users\Sam\source\repos\HashMap\HashMap\obj\Debug\netcoreapp3.1\HashMap.dll
+C:\Users\Sam\source\repos\HashMap\HashMap\obj\Debug\netcoreapp3.1\HashMap.pdb
+C:\Users\Sam\source\repos\HashMap\HashMap\obj\Debug\netcoreapp3.1\HashMap.genruntimeconfig.cache
